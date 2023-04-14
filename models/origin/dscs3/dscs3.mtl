@@ -1,0 +1,440 @@
+newmtl DSCS_III.1
+Ka 1 1 1
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ns 0.000000
+d 1.000000
+illum 1
+
+newmtl DSCS_III.2
+Ka 1 1 1
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ns 0.000000
+d 1.000000
+illum 1
+
+newmtl DSCS_III.3
+Ka 1 1 1
+Kd 0.192157 0.203922 0.196078
+Ks 0 0 0
+Ns 1000.000000
+d 1.000000
+illum 1
+
+newmtl DSCS_III.4
+Ka 1 1 1
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ns 1000.000000
+d 1.000000
+illum 1
+
+map_Kd dscs-iii_foilwrinkle.tga
+
+newmtl DSCS_III.5
+Ka 1 1 1
+Kd 0.423529 0.337255 0.149020
+Ks 0 0 0
+Ns 400.000000
+d 1.000000
+illum 1
+
+newmtl DSCS_III.6
+Ka 1 1 1
+Kd 0.101961 0.101961 0.101961
+Ks 0 0 0
+Ns 0.000000
+d 1.000000
+illum 1
+
+newmtl DSCS_III.7
+Ka 1 1 1
+Kd 0.192157 0.203922 0.196078
+Ks 0 0 0
+Ns 1000.000000
+d 1.000000
+illum 1
+
+map_Kd dscs-iii_cloth.tga
+
+newmtl DSCS_III.8
+Ka 1 1 1
+Kd 0.192157 0.203922 0.196078
+Ks 0 0 0
+Ns 1000.000000
+d 1.000000
+illum 1
+
+map_Kd dscs-iii_red_foil.tga
+
+newmtl DSCS_III.9
+Ka 1 1 1
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ns 0.000000
+d 1.000000
+illum 1
+
+newmtl DSCS_III.10
+Ka 1 1 1
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ns 0.000000
+d 0.500000
+illum 1
+
+newmtl DSCS_III.11
+Ka 1 1 1
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ns 500.000000
+d 1.000000
+illum 1
+
+newmtl DSCS_III.12
+Ka 1 1 1
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ns 0.000000
+d 1.000000
+illum 1
+
+newmtl DSCS_III.13
+Ka 1 1 1
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ns 0.000000
+d 1.000000
+illum 1
+
+newmtl DSCS_III.14
+Ka 1 1 1
+Kd 0.192157 0.203922 0.196078
+Ks 0 0 0
+Ns 1000.000000
+d 1.000000
+illum 1
+
+map_Kd dscs-iii_metal_1.tga
+
+newmtl DSCS_III.15
+Ka 1 1 1
+Kd 0.192157 0.203922 0.196078
+Ks 0 0 0
+Ns 1000.000000
+d 1.000000
+illum 1
+
+map_Kd dscs-iii_metal_2.tga
+
+newmtl DSCS_III.16
+Ka 1 1 1
+Kd 0.192157 0.203922 0.196078
+Ks 0 0 0
+Ns 1000.000000
+d 1.000000
+illum 1
+
+map_Kd dscs-iii_nozzel.tga
+
+newmtl DSCS_III.17
+Ka 1 1 1
+Kd 0.192157 0.203922 0.196078
+Ks 0 0 0
+Ns 1000.000000
+d 1.000000
+illum 1
+
+map_Kd dscs-iii_red_foil.tga
+
+newmtl DSCS_III.18
+Ka 1 1 1
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ns 500.000000
+d 1.000000
+illum 1
+
+newmtl DSCS_III.19
+Ka 1 1 1
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ns 500.000000
+d 0.300000
+illum 1
+
+newmtl DSCS_III.20
+Ka 1 1 1
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ns 1000.000000
+d 1.000000
+illum 1
+
+map_Kd dscs-iii_mirror.tga
+
+newmtl DSCS_III.21
+Ka 1 1 1
+Kd 0.411765 0.427451 0.419608
+Ks 0 0 0
+Ns 1000.000000
+d 1.000000
+illum 1
+
+newmtl DSCS_III.22
+Ka 1 1 1
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ns 500.000000
+d 1.000000
+illum 1
+
+newmtl DSCS_III.23
+Ka 1 1 1
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ns 500.000000
+d 1.000000
+illum 1
+
+newmtl Thruster_1.1
+Ka 1 1 1
+Kd 0.784314 0.784314 0.839216
+Ks 0 0 0
+Ns 0.000000
+d 0.500000
+illum 1
+
+newmtl Thruster_2.1
+Ka 1 1 1
+Kd 0.784314 0.784314 0.839216
+Ks 0 0 0
+Ns 0.000000
+d 0.500000
+illum 1
+
+newmtl Thruster_3.1
+Ka 1 1 1
+Kd 0.784314 0.784314 0.839216
+Ks 0 0 0
+Ns 0.000000
+d 0.500000
+illum 1
+
+newmtl Thruster_4.1
+Ka 1 1 1
+Kd 0.784314 0.784314 0.839216
+Ks 0 0 0
+Ns 0.000000
+d 0.500000
+illum 1
+
+newmtl Thruster_5.1
+Ka 1 1 1
+Kd 0.784314 0.784314 0.839216
+Ks 0 0 0
+Ns 0.000000
+d 0.500000
+illum 1
+
+newmtl Thruster_6.1
+Ka 1 1 1
+Kd 0.784314 0.784314 0.839216
+Ks 0 0 0
+Ns 0.000000
+d 0.500000
+illum 1
+
+newmtl Thruster_7.1
+Ka 1 1 1
+Kd 0.784314 0.784314 0.839216
+Ks 0 0 0
+Ns 0.000000
+d 0.500000
+illum 1
+
+newmtl Thruster_8.1
+Ka 1 1 1
+Kd 0.784314 0.784314 0.839216
+Ks 0 0 0
+Ns 0.000000
+d 0.500000
+illum 1
+
+newmtl Thruster_9.1
+Ka 1 1 1
+Kd 0.784314 0.784314 0.839216
+Ks 0 0 0
+Ns 0.000000
+d 0.500000
+illum 1
+
+newmtl Thruster_10.1
+Ka 1 1 1
+Kd 0.784314 0.784314 0.839216
+Ks 0 0 0
+Ns 0.000000
+d 0.500000
+illum 1
+
+newmtl Thruster_11.1
+Ka 1 1 1
+Kd 0.784314 0.784314 0.839216
+Ks 0 0 0
+Ns 0.000000
+d 0.500000
+illum 1
+
+newmtl Thruster_12.1
+Ka 1 1 1
+Kd 0.784314 0.784314 0.839216
+Ks 0 0 0
+Ns 0.000000
+d 0.500000
+illum 1
+
+newmtl Thruster_13.1
+Ka 1 1 1
+Kd 0.784314 0.784314 0.839216
+Ks 0 0 0
+Ns 0.000000
+d 0.500000
+illum 1
+
+newmtl Thruster_14.1
+Ka 1 1 1
+Kd 0.784314 0.784314 0.839216
+Ks 0 0 0
+Ns 0.000000
+d 0.500000
+illum 1
+
+newmtl Thruster_15.1
+Ka 1 1 1
+Kd 0.784314 0.784314 0.839216
+Ks 0 0 0
+Ns 0.000000
+d 0.500000
+illum 1
+
+newmtl Thruster_16.1
+Ka 1 1 1
+Kd 0.784314 0.784314 0.839216
+Ks 0 0 0
+Ns 0.000000
+d 0.500000
+illum 1
+
+newmtl GDAart.1
+Ka 1 1 1
+Kd 0.192157 0.203922 0.196078
+Ks 0 0 0
+Ns 1000.000000
+d 1.000000
+illum 1
+
+map_Kd dscs-iii_metal_2.tga
+
+newmtl GDA.1
+Ka 1 1 1
+Kd 0.192157 0.203922 0.196078
+Ks 0 0 0
+Ns 1000.000000
+d 1.000000
+illum 1
+
+map_Kd dscs-iii_dish.tga
+
+newmtl GDA.2
+Ka 1 1 1
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ns 0.000000
+d 1.000000
+illum 1
+
+map_Kd dscs-iii_cloth.tga
+
+newmtl GDA.3
+Ka 1 1 1
+Kd 0.411765 0.427451 0.419608
+Ks 0 0 0
+Ns 1000.000000
+d 1.000000
+illum 1
+
+newmtl SolarPanel.1
+Ka 1 1 1
+Kd 0.192157 0.203922 0.196078
+Ks 0 0 0
+Ns 1000.000000
+d 1.000000
+illum 1
+
+map_Kd dscs-iii_metal_1.tga
+
+newmtl SolarPanel.2
+Ka 1 1 1
+Kd 0.192157 0.203922 0.196078
+Ks 0 0 0
+Ns 1000.000000
+d 1.000000
+illum 1
+
+map_Kd dscs-iii_metal_2.tga
+
+newmtl SolarPanel.3
+Ka 1 1 1
+Kd 0.192157 0.203922 0.196078
+Ks 0 0 0
+Ns 1000.000000
+d 1.000000
+illum 1
+
+map_Kd dscs-iii_nozzel.tga
+
+newmtl SolarPanel.4
+Ka 1 1 1
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ns 0.000000
+d 1.000000
+illum 1
+
+newmtl SolarPanel.5
+Ka 1 1 1
+Kd 0.000000 0.070588 0.431373
+Ks 0 0 0
+Ns 500.000000
+d 1.000000
+illum 1
+
+newmtl SolarPanel.6
+Ka 1 1 1
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ns 800.000000
+d 1.000000
+illum 1
+
+map_Kd dscs-iii_backpanel_2.tga
+
+newmtl SolarPanel.7
+Ka 1 1 1
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ns 800.000000
+d 1.000000
+illum 1
+
+map_Kd dscs-iii_backpanel_1.tga
+
+newmtl SolarPanel.8
+Ka 1 1 1
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ns 0.000000
+d 1.000000
+illum 1
+
